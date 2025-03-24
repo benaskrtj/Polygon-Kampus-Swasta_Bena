@@ -1,0 +1,355 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Univ": "Universitas Sanata Dharma",
+        "Desc": "Universitas Sanata Dharma (USD) merupakan perguruan tinggi Katolik yang didirikan pada 20 Oktober 1955 di Yogyakarta. Universitas swasta ini awalnya merupakan Perguruan Tinggi Pendidikan Guru (PTPG) Sanata Dharma yang dibentuk dari hasil penggabungan antara kursus B1 Mendidik milik Yayasan De Britto di Yogyakarta dan B1 Bahasa Inggris milik Yayasan Loyola di Semarang pada tanggal 20 Oktober 1955. PTPG Sanata Dharma kemudian diresmikan oleh pemerintah pada tanggal 17 Desember 1955. Nama Sanata Dharma sendiri memiliki arti “kebaktian yang sebenarnya” atau “pelayanan yang nyata” yang ditujukan untuk tanah air dan gereja (Pro Patria et Eclessia)"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              110.36547854169606,
+              -7.7963921464427415
+            ],
+            [
+              110.36547854169606,
+              -7.797306414887018
+            ],
+            [
+              110.36646647992637,
+              -7.797306414887018
+            ],
+            [
+              110.36646647992637,
+              -7.7963921464427415
+            ],
+            [
+              110.36547854169606,
+              -7.7963921464427415
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": 0
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Univ": "Universitas Atma Jaya ",
+        "Desc": "Universitas Atma Jaya Yogyakarta (UAJY) didirikan pada 27 September 1965. Perguruan Tinggi Swasta ini berlokasi di Jalan Babarsari, Sleman, Daerah Istimewa Yogyakarta. PTS ini awalnya merupakan universitas cabang dengan nama Universitas Katolik Indonesia Atma Jaya Cabang Yogyakarta. Universitas cabang tersebut kemudian memisahkan diri dan berdiri sendiri secara mandiri sebagai Universitas Atma Jaya Yogyakarta sejak 31 Agustus 1973.  Berdirinya Universitas Atma Jaya Yogyakarta dipelopori oleh lima kaum awam Katolik yaitu R.A. Soehardi, S.H., A.J. Liem Sioe Siet, Sutijoso, S.H., Drs. Oey Liang Lee, dan Leo Sukoto, S.J. Universitas ini berdiri di bawah naungan Santo Albertus Magnus dan dikelola oleh Yayasan Slamet Rijadi."
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              110.36547882564469,
+              -7.7977043899941805
+            ],
+            [
+              110.36547882564469,
+              -7.798597143462715
+            ],
+            [
+              110.36662961083556,
+              -7.798597143462715
+            ],
+            [
+              110.36662961083556,
+              -7.7977043899941805
+            ],
+            [
+              110.36547882564469,
+              -7.7977043899941805
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": 1
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Univ": "Universitas Ahmad Dahlan",
+        "Desc": "Universitas Ahmad Dahlan (UAD) adalah Perguruan Tinggi Swasta di Jogja yang didirikan pada 18 November 1960. UAD sebelumnya merupakan IKIP Muhammadiyah Yogyakarta, yang kemudian dikembangkan menjadi sebuah universitas. IKIP Muhammadiyah Yogyakarta resmi berubah menjadi Universitas Ahmad Dahlan berdasarkan SK Menteri Pendidikan dan Kebudayaan Republik Indonesia Nomor 102/D/0/1994 pada Desember 1994."
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              110.36323153758144,
+              -7.797349439291253
+            ],
+            [
+              110.36323153758144,
+              -7.798360510198549
+            ],
+            [
+              110.36462116498211,
+              -7.798360510198549
+            ],
+            [
+              110.36462116498211,
+              -7.797349439291253
+            ],
+            [
+              110.36323153758144,
+              -7.797349439291253
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": 2
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Univ": "Universitas Muhammadiyah Yogyakarta",
+        "Desc": "Universitas Muhammadiyah Yogyakarta (UMY) merupakan universitas swasta yang didirikan pada tanggal 1 Maret 1981. UMY berlokasi di Jalan Brawijaya, Kasihan, Bantul, Daerah Istimewa Yogyakarta. Pada tahun 2021, UMY dinobatkan sebagai peringkat pertama Perguruan Tinggi Muhammadiyah/Aisyiyah (PTMA) terbaik versi Webometrics. "
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              110.363101260012,
+              -7.795133679608668
+            ],
+            [
+              110.363101260012,
+              -7.795908121219611
+            ],
+            [
+              110.36420861934806,
+              -7.795908121219611
+            ],
+            [
+              110.36420861934806,
+              -7.795133679608668
+            ],
+            [
+              110.363101260012,
+              -7.795133679608668
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": 3
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Univ": "Universitas Islam Indonesia",
+        "Desc": "Universitas Islam Indonesia (UII) merupakan salah satu Perguruan Tinggi Swasta (PTS) yang tertua di Indonesia. PTS ini awalnya didirikan dengan nama Sekolah Tinggi Islam (STI) oleh para tokoh nasional di Jakarta pada 8 Juli 1945, lalu satu tahun kemudian, tepatnya pada 10 April 1946, barulah STI dibuka di Yogyakarta."
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              110.36518570111468,
+              -7.799489895026028
+            ],
+            [
+              110.36518570111468,
+              -7.800049208287589
+            ],
+            [
+              110.36611935702479,
+              -7.800049208287589
+            ],
+            [
+              110.36611935702479,
+              -7.799489895026028
+            ],
+            [
+              110.36518570111468,
+              -7.799489895026028
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": 4
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Univ": "Universitas Sarjanawiyata Tamansiswa",
+        "Desc": "Universitas Sarjanawiyata Tamansiswa (UST) berdiri pada tahun 1955 di Yogyakarta dan merupakan bagian dari Perguruan Tamansiswa yang didirikan oleh Bapak Pendidikan Indonesia Ki Hadjar Dewantara pada 3 Juli 1922. Pendidikan yang diselenggarakan dalam Perguruan Tamansiswa pada mulanya terdiri atas Taman Indria (TK), Taman Muda (SD), Taman Dewasa (SMP), Taman Guru (SPG), Taman Karya (SMK), dan Taman Madya (SMA). Tiga puluh tiga tahun kemudian, tepatnya pada tanggal 15 November 1955 Ki Hadjar Dewantara mendirikan Taman Prasarjana yang kemudian menjadi Universitas Sarjanawiyata Tamansiswa."
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              110.36573938078186,
+              -7.79531653400673
+            ],
+            [
+              110.36573938078186,
+              -7.7960802191606575
+            ],
+            [
+              110.36681417072515,
+              -7.7960802191606575
+            ],
+            [
+              110.36681417072515,
+              -7.79531653400673
+            ],
+            [
+              110.36573938078186,
+              -7.79531653400673
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": 5
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Univ": "Universitas Mercu Buana Yogyakarta",
+        "Desc": "Universitas Mercu Buana Yogyakarta merupakan perguruan tinggi swasta terkemuka yang berlokasi di Jalan Raya Wates, Bantul, Yogyakarta. Universitas swasta ini dahulu merupakan Institut Pertanian Wangsa Manggala yang berdiri pada tahun 1984. Kemudian di tahun 1986, institut tersebut berganti status menjadi Universitas Wangsa Manggala. Secara institusi, Universitas Mercu Buana Yogyakarta saat ini telah terakreditasi B."
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              110.36476229901524,
+              -7.793660085363655
+            ],
+            [
+              110.36476229901524,
+              -7.794456042614513
+            ],
+            [
+              110.3655439645571,
+              -7.794456042614513
+            ],
+            [
+              110.3655439645571,
+              -7.793660085363655
+            ],
+            [
+              110.36476229901524,
+              -7.793660085363655
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": 6
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Univ": "Universitas AMIKOM Yogyakarta",
+        "Desc": "Universitas AMIKOM Yogyakarta merupakan perguruan tinggi IT swasta di Yogyakarta, Indonesia. Perguruan tinggi ini didirikan pada 29 Desember 1992, di bawah naungan Yayasan AMIKOM Yogyakarta. Perguruan tinggi swasta ini pernah menjadi Top 100 Perguruan Tinggi di Asia Tenggara versi Webometrics pada tahun 2014."
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              110.36162901020259,
+              -7.791763691634614
+            ],
+            [
+              110.36162901020259,
+              -7.793062860791494
+            ],
+            [
+              110.36294028795618,
+              -7.793062860791494
+            ],
+            [
+              110.36294028795618,
+              -7.791763691634614
+            ],
+            [
+              110.36162901020259,
+              -7.791763691634614
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": 7
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Univ ": "Universitas Alma Ata",
+        "Desc": "Universitas Alma Ata (UAA) merupakan universitas swasta di Jogja yang didirikan oleh Yayasan Alma Ata pada 29 Juni 2006 dalam bentuk STIKES Alma Ata dan STIA Alma Ata. Kedua sekolah tinggi ini kemudian bergabung secara resmi menjadi Universitas Alma Ata pada 21 Desember 2015. Universitas Alma Ata sendiri berlokasi di daerah Bantul, Daerah Istimewa Yogyakarta."
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              110.36430401682077,
+              -7.790932221259709
+            ],
+            [
+              110.36430401682077,
+              -7.791971558971312
+            ],
+            [
+              110.36530058791334,
+              -7.791971558971312
+            ],
+            [
+              110.36530058791334,
+              -7.790932221259709
+            ],
+            [
+              110.36430401682077,
+              -7.790932221259709
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": 8
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Univ ": "Universitas Teknologi Yogyakarta",
+        "Desc": "Universitas Teknologi Yogyakarta (UTY) adalah perguruan tinggi swasta di Daerah Istimewa Yogyakarta yang diselenggarakan oleh Yayasan “Dharma Bhakti IPTEK”. Universitas ini berdiri pada 23 Oktober 2002 dengan penggabungan tiga perguruan tinggi melalui Surat Keterangan Menteri Pendidikan Nasional RI No 237/D/0/2002 tertanggal 23 Oktober 2002."
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              110.36706644195556,
+              -7.792491226859028
+            ],
+            [
+              110.36706644195556,
+              -7.7938423603498705
+            ],
+            [
+              110.36792314342176,
+              -7.7938423603498705
+            ],
+            [
+              110.36792314342176,
+              -7.792491226859028
+            ],
+            [
+              110.36706644195556,
+              -7.792491226859028
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": 9
+    }
+  ]
+}
